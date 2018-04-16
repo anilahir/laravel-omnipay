@@ -10,11 +10,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5",
-        "anilahir/omnipay-beanstream": "^1.0",
-        "anilahir/omnipay-moneris": "^1.0",
-        "anilahir/omnipay-payeezy": "^1.0",
-        "anilahir/omnipay-vantiv": "^1.0"
+        "illuminate/support": "~5"
     },
     "autoload": {
         "psr-0": {
